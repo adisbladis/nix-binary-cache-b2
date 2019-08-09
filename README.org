@@ -1,0 +1,3 @@
+A cache proxy for backblaze b2
+
+This is an untested version with some code from a previous private repository ripped out
